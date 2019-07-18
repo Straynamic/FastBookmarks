@@ -1,0 +1,10 @@
+c:\users\owner\source\repos\FastBookmarks\FastBookmarks\bin\Debug\FastBookmarks.exe.config
+c:\users\owner\source\repos\FastBookmarks\FastBookmarks\bin\Debug\FastBookmarks.exe
+c:\users\owner\source\repos\FastBookmarks\FastBookmarks\bin\Debug\FastBookmarks.pdb
+c:\users\owner\source\repos\FastBookmarks\FastBookmarks\obj\Debug\FastBookmarks.csprojResolveAssemblyReference.cache
+c:\users\owner\source\repos\FastBookmarks\FastBookmarks\obj\Debug\FastBookmarks.Form1.resources
+c:\users\owner\source\repos\FastBookmarks\FastBookmarks\obj\Debug\FastBookmarks.Properties.Resources.resources
+c:\users\owner\source\repos\FastBookmarks\FastBookmarks\obj\Debug\FastBookmarks.csproj.GenerateResource.Cache
+c:\users\owner\source\repos\FastBookmarks\FastBookmarks\obj\Debug\FastBookmarks.csproj.CoreCompileInputs.cache
+c:\users\owner\source\repos\FastBookmarks\FastBookmarks\obj\Debug\FastBookmarks.exe
+c:\users\owner\source\repos\FastBookmarks\FastBookmarks\obj\Debug\FastBookmarks.pdb
